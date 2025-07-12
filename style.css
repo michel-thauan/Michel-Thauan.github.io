@@ -25,7 +25,7 @@ body {
 
 .infos{
     flex: 2;
-    padding: 60;
+    padding: 60px;
     display: flex;
     flex-direction: column;
     justify-content: center;
